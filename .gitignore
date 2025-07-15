@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Builds
+.next/
+dist/
+out/
+
+# Supabase temp
+supabase/.temp/
+
+# Binary/static files
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.zip
+*.exe
+*.wasm
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
